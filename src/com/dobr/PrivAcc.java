@@ -1,5 +1,5 @@
 package com.dobr;
 
-public class PrivAcc extends Account {
+public class PrivAcc {
 }
 
