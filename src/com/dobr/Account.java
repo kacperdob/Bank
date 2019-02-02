@@ -16,4 +16,5 @@ private AccType accType;
         this.accType = accType;
     }
 
+
 }
