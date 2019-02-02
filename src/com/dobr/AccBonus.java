@@ -8,6 +8,6 @@ public class AccBonus {
         money += 100;
         int money2;
         money2 = money + 50;
-        
+
     }
 }
